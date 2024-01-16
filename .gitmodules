@@ -1,3 +1,6 @@
 [submodule "binc-Common"]
 	path = binc-Common
 	url = https://github.com/biinci/binc-Common.git
+[submodule "SerializableDictionary"]
+	path = SerializableDictionary
+	url = https://github.com/biinci/SerializableDictionary.git
