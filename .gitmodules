@@ -1,0 +1,3 @@
+[submodule "binc-Common"]
+	path = binc-Common
+	url = https://github.com/biinci/binc-Common.git
